@@ -20,9 +20,9 @@ public class SquareArrayClockwiseShift {
         ArrayList<Integer> inputNums = new ArrayList<>();
         Scanner in = new Scanner(System.in);
         System.out.println("Trying square array clockwise-shifting");
-        System.out.println("Pleas input the dimention fo the square array:");
+        System.out.println("Pleas input the dimention of the square array:");
         inputNums.add(in.nextInt());
-        System.out.println("Pleas input the dimention fo the square array:");
+        System.out.println("Pleas input the numbers of the square array:");
         for (int i = 0; i<inputNums.get(0); i++){
             for (int j = 0; j<inputNums.get(0); j++){
                 inputNums.add(in.nextInt());            
