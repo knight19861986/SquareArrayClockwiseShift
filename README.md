@@ -1,4 +1,4 @@
-## SquareArrayClockwiseShift
+## Square Array Clockwise Shift
 
 ### Description
 A small program written in Java, making an input square array clockwise shifted by one step and then output.  
